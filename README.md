@@ -16,7 +16,6 @@ You are provided a dataset containing details of marketing campaigns done via ph
 
 ## Data Description
 ### Train Set
-
 Train set contains the data to be used for model building. It has the true labels for whether the customer subscribed for term deposit (1) or not (0) 
 * **id:**	Unique identifier for each sample in the dataset. Cannot be used for modelling
 * **customer_age:**	Age of the Customer in years
@@ -37,14 +36,12 @@ Train set contains the data to be used for model building. It has the true label
 * **prev_campaign_outcome:** Success or Failure in previous Campaign.
 * **term_deposit_subscribed:** (Target) Has the customer taken a term deposit ?
 
-
-Test Set
-
+### Test Set
 Set of calls for which the prediction needs to be done regarding the subscription status of the customer for term deposit post campaign
-Variable	Description
-id	Unique identifier for each sample in the dataset. Cannot be used for modelling.
-customer_age	Age of the Customer in years
-job_type	Type of job of the customer
+
+* **id:**	              Unique identifier for each sample in the dataset. Cannot be used for modelling.
+* **customer_age:**	    Age of the Customer in years
+* **job_type:**	        Type of job of the customer
 marital	Marital Status of the Custmer
 education	Education Level of the Customer
 default	Whether customer has Defaulted in Past
