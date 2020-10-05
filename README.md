@@ -16,7 +16,7 @@ You are provided a dataset containing details of marketing campaigns done via ph
 
 ## Data Description
 ### Train Set
-Train set contains the data to be used for model building. It has the true labels for whether the customer subscribed for term deposit (1) or not (0) 
+Train set contains the data to be used for model building. It has the true labels for whether the customer subscribed for term deposit(1) or not(0) 
 * **id:**	Unique identifier for each sample in the dataset. Cannot be used for modelling
 * **customer_age:**	Age of the Customer in years
 * **job_type:**	Type of job of the customer
@@ -39,20 +39,20 @@ Train set contains the data to be used for model building. It has the true label
 ### Test Set
 Set of calls for which the prediction needs to be done regarding the subscription status of the customer for term deposit post campaign
 
-* **id:**	              Unique identifier for each sample in the dataset. Cannot be used for modelling.
-* **customer_age:**	    Age of the Customer in years
-* **job_type:**	        Type of job of the customer
-marital	Marital Status of the Custmer
-education	Education Level of the Customer
-default	Whether customer has Defaulted in Past
-balance	Current Balance in the Customer's Bank
-housing_loan	Has customer taken a Housing Loan
-personal_loan	Has customer taken a Personal Loan
-communication_type	Type of communication made by the bank with the customer
-day_of_month	Day of month of the last contact made with customer
-month	Month for the last contact made with customer
-last_contact_duration	Last Contact duration made with the customer (in seconds)
-num_contacts_in_campaign	Number of contacts made with the customer during the current campaign.
-days_since_prev_campaign_contact	Number of days passed since customer was contacted in previous campaign.
-num_contacts_prev_campaign	Number of contacts made with the customer during the previous campaign.
-prev_campaign_outcome	Success or Failure in previous Campaign.
+* **id:**	Unique identifier for each sample in the dataset. Cannot be used for modelling.
+* **customer_age:**	Age of the Customer in years
+* **job_type:**	Type of job of the customer
+* **marital:**	Marital Status of the Custmer
+* **education:**	Education Level of the Customer
+* **default:**	Whether customer has Defaulted in Past
+* **balance:**	Current Balance in the Customer's Bank
+* **housing_loan:**	Has customer taken a Housing Loan
+* **personal_loan:**	Has customer taken a Personal Loan
+* **communication_type:**	Type of communication made by the bank with the customer
+* **day_of_month:**	Day of month of the last contact made with customer
+* **month:**	Month for the last contact made with customer
+* **last_contact_duration:**	Last Contact duration made with the customer (in seconds)
+* **num_contacts_in_campaign:**	Number of contacts made with the customer during the current campaign.
+* **days_since_prev_campaign_contact:**	Number of days passed since customer was contacted in previous campaign.
+* **num_contacts_prev_campaign:**	Number of contacts made with the customer during the previous campaign.
+* **prev_campaign_outcome:**	Success or Failure in previous Campaign.
