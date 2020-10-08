@@ -2,7 +2,7 @@
 Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction. The dataset used contains details of marketing campaigns done via phone with various details for customers such as demographics, last campaign details etc. The focus of the project is to help a bank to predict accurately whether a customer will subscribe to the focus product for the campaign - Term Deposit after the campaign.
  
 ---
-
+ 
 ## Problem Statement
 Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction. Nevertheless, there are different variables that determine whether a marketing campaign will be successful or not. Some important aspects of a marketing campaign are as follows: 
 
