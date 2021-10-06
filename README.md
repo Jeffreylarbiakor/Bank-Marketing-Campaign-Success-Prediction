@@ -1,6 +1,7 @@
 # Bank Marketing Campaign Success Prediction 
----
-https://miro.medium.com/max/700/0*V20C-1yLqib4EBOK.jpg
+
+![Project Image](https://miro.medium.com/max/700/0*V20C-1yLqib4EBOK.jpg)
+
 ---
 
 Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction. The dataset used contains details of marketing campaigns done via phone with various details for customers such as demographics, last campaign details etc. The focus of the project is to help a bank to predict accurately whether a customer will subscribe to the focus product for the campaign - Term Deposit after the campaign.
