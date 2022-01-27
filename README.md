@@ -65,7 +65,7 @@ Set of calls for which the prediction needs to be done regarding the subscriptio
 * **days_since_prev_campaign_contact:**	Number of days passed since customer was contacted in previous campaign.
 * **num_contacts_prev_campaign:**	Number of contacts made with the customer during the previous campaign.
 * **prev_campaign_outcome:**	Success or Failure in previous Campaign.
-
+ 
 [Back To The Top](#marketing-campaign-prediction)
 
 ---
